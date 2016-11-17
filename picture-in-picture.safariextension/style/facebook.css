@@ -1,0 +1,14 @@
+li.pip_menu_item:hover {
+	background-color: rgb(66, 103, 178);
+}
+
+li.pip_menu_item:hover a {
+	border-top: solid rgb(42, 71, 124) !important;
+	border-bottom: solid rgb(42, 71, 124) !important;
+	border-width: 1px 0 !important;
+}
+
+li.pip_menu_item:hover span {
+	color: white;
+}
+
