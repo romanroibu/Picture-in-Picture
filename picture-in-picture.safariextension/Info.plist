@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Author</key>
+	<string>Roman Roibu</string>
 	<key>Builder Version</key>
 	<string>12602.2.14.0.7</string>
 	<key>CFBundleDisplayName</key>
@@ -32,6 +34,8 @@
 			<string>style/facebook.css</string>
 		</array>
 	</dict>
+	<key>Description</key>
+	<string>Support for Picture-in-Picture feature on websites that don't offer it.</string>
 	<key>DeveloperIdentifier</key>
 	<string>99DC555NUS</string>
 	<key>ExtensionInfoDictionaryVersion</key>
@@ -50,5 +54,7 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Website</key>
+	<string>https://github.com/romanroibu/Picture-in-Picture</string>
 </dict>
 </plist>
